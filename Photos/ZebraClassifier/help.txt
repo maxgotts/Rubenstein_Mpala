@@ -1,0 +1,4 @@
+https://towardsdatascience.com/all-the-steps-to-build-your-first-image-classifier-with-code-cf244b015799
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+https://victorzhou.com/blog/keras-cnn-tutorial/
+https://www.tensorflow.org/tutorials/keras/save_and_load
